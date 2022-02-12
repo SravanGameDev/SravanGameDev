@@ -1,5 +1,7 @@
-### Hi there👋
-- 👋 I’m Sravan, a video game programmer.
+### Hi there👋 I am Sravan
+
+### About Me
+- 👋 I’m a video game programmer.
 - 👀 I’m interested in coding for Video games and make them fun to play.
 - 🌱 I’m currently learning C++, Blueprints in Unreal Game Engine and I have full time experience in Unity Game Engine
 - 💞️ I’m looking to collaborate on Unreal Project
