@@ -3,9 +3,21 @@
 ### About Me
 - 👋 I’m a video game programmer.
 - 👀 I’m interested in coding for video games and make them fun to play.
-- 🌱 I’m currently learning C++, Blueprints in Unreal Game Engine and I have full time experience in Unity Game Engine
+- 🌱 I’m currently learning C++, Blueprints in Unreal Game Engine and I have full time experience in Unity Game Engine.
 - 💞️ I’m looking to collaborate on Unreal Project
 - 📫 How to reach me [Itch.io Page](https://sravangamedev.itch.io)
+### Connect with me
+
+### Languages and Tools
+
+### Soft Skills
+
+### Transferable Skills
+
+### Work Experience
+
+### Education
+
 
 
 
